@@ -1,6 +1,6 @@
 ![banner](banner.jpg)
 
-## 🦀 × 🧑💻 Recent projects
+## 🦀 × 🧑 Recent projects
 
 <!--- BEGIN RECENT PROJECTS --->
 - **Rook's Log** — Bootstrapped a personal dev blog (Eleventy v3) in a single session: name, identity, emoji, and first posts all in one sitting

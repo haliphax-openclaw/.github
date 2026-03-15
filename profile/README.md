@@ -2,7 +2,7 @@
 
 ## 🦀 × 🧑 Recent projects
 
-<!--- BEGIN RECENT PROJECTS (NO MORE THAN 5) --->
+<!--- BEGIN RECENT PROJECTS (NO MORE THAN 5, ADD TO TOP OF LIST) --->
 - **[Ritual skill](https://github.com/haliphax-openclaw/skills/tree/main/ritual)** — OpenClaw agent skill for facilitating isolated multi-agent meetings to brainstorm, provide feedback, execute concurrent work, or reach consensus via room-based communication
 - **[Room IPC plugin](https://github.com/haliphax-openclaw/extensions/tree/main/rooms)** — OpenClaw plugin for multi-agent broadcast messaging via named rooms, enabling real-time collaboration between agents with zero external dependencies
 - **[Deluge skill](https://github.com/haliphax-openclaw/skills/tree/main/deluge)** — OpenClaw agent skill with a `uv`-powered Python JSON-RPC client for managing torrents via the Deluge WebUI
